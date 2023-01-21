@@ -1,0 +1,17 @@
+
+.triangle{
+    width: 0;
+	height: 0;
+	border-top: 250px solid transparent;
+	border-left: 250px solid rgb(3, 3, 152);
+	border-bottom: 250px solid transparent;
+    z-index: 1 ;
+}
+.red{
+    width: 50%;
+    height: 35%;
+    background-color: rgb(207, 3, 3);
+    position: absolute;
+    top: 35.5%;
+    z-index: -1;
+}
